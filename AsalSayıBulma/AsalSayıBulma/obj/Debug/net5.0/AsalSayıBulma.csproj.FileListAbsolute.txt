@@ -1,0 +1,16 @@
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\bin\Debug\net5.0\AsalSayıBulma.exe
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\bin\Debug\net5.0\AsalSayıBulma.deps.json
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\bin\Debug\net5.0\AsalSayıBulma.runtimeconfig.json
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\bin\Debug\net5.0\AsalSayıBulma.runtimeconfig.dev.json
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\bin\Debug\net5.0\AsalSayıBulma.dll
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\bin\Debug\net5.0\ref\AsalSayıBulma.dll
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\bin\Debug\net5.0\AsalSayıBulma.pdb
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\AsalSayıBulma.csprojAssemblyReference.cache
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\AsalSayıBulma.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\AsalSayıBulma.AssemblyInfoInputs.cache
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\AsalSayıBulma.AssemblyInfo.cs
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\AsalSayıBulma.csproj.CoreCompileInputs.cache
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\AsalSayıBulma.dll
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\ref\AsalSayıBulma.dll
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\AsalSayıBulma.pdb
+E:\Kodluyoruz1\AsalSayıBulma\AsalSayıBulma\obj\Debug\net5.0\AsalSayıBulma.genruntimeconfig.cache
